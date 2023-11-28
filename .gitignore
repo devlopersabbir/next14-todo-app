@@ -7,6 +7,7 @@
 .yarn/install-state.gz
 pnpm-lock.yaml
 /pnpm-lock.yaml
+.env
 
 # testing
 /coverage

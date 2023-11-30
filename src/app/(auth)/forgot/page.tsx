@@ -17,7 +17,7 @@ const Forgot = () => {
 
             <Button>Reset</Button>
             <Link href="/sign-up" className="text-center hover:underline">
-              Don't have an account!
+              Don't have an account?
             </Link>
           </div>
         </div>
